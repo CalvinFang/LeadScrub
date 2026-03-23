@@ -1,8 +1,5 @@
 # LeadScrub 🕵️‍♂️
 
-![LeadScrub Banner](/public/screenshot.png)
-
-> **Note:** *You can replace the image above with an actual screenshot of your application. Just name your screenshot `screenshot.png`, place it in the `public` folder, and change the image path above to `![LeadScrub Banner](/screenshot.png)`.*
 
 **Local-First AI Lead Extractor for Windows/Mac.** 
 Stop wasting hours formatting messy sales leads. Plug in your own DeepSeek/OpenAI Key and pay fractions of a cent per lead. Built for Solo Sales Reps.
