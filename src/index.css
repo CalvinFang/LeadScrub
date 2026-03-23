@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-headline: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-label: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-primary: #9fff88;
+  --color-on-primary: #026400;
+  --color-primary-dim: #01ed00;
+  --color-primary-container: #00fd00;
+  --color-on-primary-container: #015a00;
+  
+  --color-secondary: #669dff;
+  --color-on-secondary: #001f49;
+  --color-secondary-dim: #0070ea;
+  --color-secondary-container: #005bc0;
+  --color-on-secondary-container: #f7f7ff;
+
+  --color-tertiary: #7af4ff;
+  --color-on-tertiary: #005b61;
+  --color-tertiary-dim: #00dbe8;
+  --color-tertiary-container: #08ebf8;
+  --color-on-tertiary-container: #005257;
+
+  --color-error: #ff7351;
+  --color-on-error: #450900;
+  --color-error-dim: #d53d18;
+  --color-error-container: #b92902;
+  --color-on-error-container: #ffd2c8;
+
+  --color-background: #0a0e14;
+  --color-on-background: #f1f3fc;
+  --color-surface: #0a0e14;
+  --color-on-surface: #f1f3fc;
+  --color-surface-variant: #20262f;
+  --color-on-surface-variant: #a8abb3;
+  --color-outline: #72757d;
+  --color-outline-variant: #44484f;
+
+  --color-surface-dim: #0a0e14;
+  --color-surface-bright: #262c36;
+  --color-surface-container-lowest: #000000;
+  --color-surface-container-low: #0f141a;
+  --color-surface-container: #151a21;
+  --color-surface-container-high: #1b2028;
+  --color-surface-container-highest: #20262f;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-on-background);
+  font-family: var(--font-sans);
+}
