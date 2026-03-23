@@ -1,5 +1,4 @@
-<img width="3842" height="1867" alt="image" src="https://github.com/user-attachments/assets/d91d9906-ae83-4044-ae8c-21f5fe64fd1d" /># LeadScrub 🕵️‍♂️
-
+# LeadScrub 🕵️‍♂️
 
 **Local-First AI Lead Extractor for Windows/Mac.** 
 Stop wasting hours formatting messy sales leads. Plug in your own DeepSeek/OpenAI Key and pay fractions of a cent per lead. Built for Solo Sales Reps.
