@@ -43,19 +43,6 @@ Stop wasting hours formatting messy sales leads. Plug in your own DeepSeek/OpenA
    npm run dev
    ```
 
-## 🔐 Admin Dashboard
-
-The application includes a hidden admin dashboard to view waitlist signups.
-
-1. Scroll to the footer of the landing page.
-2. Click the **"ADMIN"** link next to the copyright text.
-3. Sign in using your authorized Google account (`fangz9691@gmail.com`).
-
-**Important Deployment Note:** 
-If you deploy this app to a custom domain (e.g., Vercel, Netlify, Cloud Run), you **must** add your new domain to the Firebase Authentication Authorized Domains list:
-1. Go to [Firebase Console](https://console.firebase.google.com/) -> Authentication -> Settings -> Authorized domains.
-2. Click "Add domain" and enter your production domain.
-
 ## 📦 Deployment
 
 Build the project for production:
