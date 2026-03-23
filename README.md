@@ -1,4 +1,9 @@
 # LeadScrub 🕵️‍♂️
+```
+Interested? Join the waitlist here:
+```
+** https://ai.studio/apps/93380343-438f-4a72-9db4-958a232ab7d1 **
+
 
 **Local-First AI Lead Extractor for Windows/Mac.** 
 Stop wasting hours formatting messy sales leads. Plug in your own DeepSeek/OpenAI Key and pay fractions of a cent per lead. Built for Solo Sales Reps.
